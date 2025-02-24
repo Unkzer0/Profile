@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi there! I'm Abhay Agrahari 👋<br><br>Aspiring Software Developer | Passionate about C++, DSA, and Game Development 🎮<br><br>🎓 Pursuing BCA from Integral University (Graduating in 2025)<br><br>💻 Skilled in C++, Java, Python, SQL, C#, and Unity 3D<br><br>🚀 Currently improving my Data Structures & Algorithms skills<br><br>📜 Certified in Unity 3D Game Development and pursuing Google IT Support Certificate<br><br>🎯 Looking for opportunities to learn, grow, and contribute to exciting projects<br>
+<br>Hello There!! I'm Abhay Agrahari 👋<br>Aspiring Software Developer | Passionate about C++, DSA, and Game Development 🎮<br>🎓 Pursuing BCA from Integral University (Graduating in 2025)<br>💻 Skilled in C++, Java, Python, SQL, C#, and Unity 3D<br>🚀 Currently improving my Data Structures & Algorithms skills<br>📜 Certified in Unity 3D Game Development<br>🎯 Looking for opportunities to learn, grow, and contribute to exciting projects<br>
 
 
 ## 🌐 Socials:
